@@ -1,2 +1,3 @@
-// main에서 수정한 메세지
-// 다른 브랜치에서 수정한 메세지
+function login() {
+  console.log("login from feature branch");
+}
