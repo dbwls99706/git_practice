@@ -1,1 +1,3 @@
-// main에서 수정한 메세지
+function login() {
+  console.log("login from main");
+}
